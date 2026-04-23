@@ -1,5 +1,5 @@
-import { Mail, Phone, Facebook, Instagram } from "lucide-react";
-import { FaXTwitter } from "react-icons/fa6";
+import React from "react";
+import { EnvelopeSimpleIcon } from "@phosphor-icons/react";
 
 export default function TopBar() {
   return (
