@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination, Autoplay } from "swiper/modules";
 import { Quotes } from "@phosphor-icons/react";
 
-import { getTestimonials } from "../../../Api/Api"; // 👈 IMPORT API
+import { getTestimonials } from "../../../Api/Api"; 
 
 import "swiper/css";
 import "swiper/css/pagination";
