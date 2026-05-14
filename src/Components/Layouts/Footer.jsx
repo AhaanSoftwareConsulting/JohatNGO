@@ -83,7 +83,7 @@ const Footer = () => {
               ].map((item, i) => (
                 <li key={i}>
                   <a
-                    href="#"
+                    href="/our-work"
                     className="text-[16px] font-medium transition-all duration-300 hover:translate-x-[6px] inline-block"
                   >
                     {item}
